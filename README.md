@@ -18,4 +18,5 @@ marp --pdf --allow-local-files index.md
 
 1. Fork this project
 2. Create a new branch and push your changes
-3. Open a pull request
+3. Test html and pdf rendering of the new slides
+4. Open a pull request
