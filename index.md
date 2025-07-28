@@ -132,6 +132,21 @@ export OPENAI_API_KEY="$OPENROUTER_API_KEY"
 
 ---
 
+Specifying conventions:
+
+[aider.chat/docs/usage/conventions.html](https://aider.chat/docs/usage/conventions.html)
+
+```markdown
+- Prefer httpx over requests for making http requests.
+- Use types everywhere possible.
+```
+
+```
+/read CONVENTIONS.md
+```
+
+---
+
 # Vim and Neovim plugins
 
 ---
