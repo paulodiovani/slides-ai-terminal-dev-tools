@@ -53,7 +53,7 @@ gh copilot suggest "Undo the last commit"
 
 ## 🤖 Claude Code
 
-by Alexandre Saura
+by Alexandre Camillo
 
 [anthropic.com/claude-code](https://www.anthropic.com/claude-code)
 
