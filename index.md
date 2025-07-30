@@ -142,7 +142,7 @@ Specifying conventions:
 ```
 
 ```
-/read CONVENTIONS.md
+/read-only CONVENTIONS.md
 ```
 
 ---
